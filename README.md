@@ -1,5 +1,5 @@
-![DALL·E 2025-03-04 03 05 11 - A detailed and realistic horizontal illustration of a neural network demonstrating backpropagation with clear steps  The diagram should include__- An ](https://github.com/user-attachments/assets/c7786c41-537c-4dac-8a64-aa459c28f976)
-#Backpropagation from Scratch
+![DALL·E 2025-03-04 03 05 11 - A detailed and realistic horizontal illustration of a neural network demonstrating backpropagation with clear steps  The diagram should include__- An ](https://github.com/user-attachments/assets/062147ac-586f-4179-b1b4-4fcac3b4f617)
+# Backpropagation from Scratch
 
 ## Overview
 This project implements the **Backpropagation Algorithm** from scratch using only core Python (without NumPy). The code demonstrates how weights are updated in a simple neural network with one hidden layer.
@@ -33,3 +33,4 @@ If the total error decreases after updates, the backpropagation is working corre
 
 ## Author
 Developed by **Khaled Ali** as part of a neural network backpropagation study.
+
